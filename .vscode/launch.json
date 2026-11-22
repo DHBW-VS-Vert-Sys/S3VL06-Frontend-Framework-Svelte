@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+   	"configurations": [
+		{
+			"command": "npm run dev",
+			"name": "Debug Project",
+			"request": "launch",
+			"type": "node-terminal",
+			"env": {
+				"LAUNCH_EDITOR": "code"
+			}
+		}
+	]
+}
