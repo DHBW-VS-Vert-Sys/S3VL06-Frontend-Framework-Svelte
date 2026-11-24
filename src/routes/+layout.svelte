@@ -12,7 +12,7 @@
 	:global(body) {
 		font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
 		margin: 0;
-		padding: 0;
+		padding: 15px;
 		background: #f7f9fc;
 		color: #0f172a;
 	}
